@@ -1,11 +1,9 @@
 # This workflow uses actions that are not certified by GitHub.
 
 name: .NET Core Desktop
-
 on:
   push:
     branches: [ "main" ]
-
 jobs:
   build:
     runs-on: ubuntu-latest  
@@ -24,7 +22,6 @@ jobs:
       with: 
         name: my-artifacts
         path: ${{env.DOTNET_ROOT}}/publish
-  
   deploy:
     runs-on: self-hosted
     needs: build
