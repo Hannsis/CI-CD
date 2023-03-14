@@ -18,7 +18,7 @@ jobs:
     - name: Build
       run: dotnet build
     - name: Publish
-      run: dotnet publish -o ${{env.DOTNET_ROOT}}
+      run: dotnet publish -o ${{env.DOTNET_ROOT}}/publish
     - name: Update artifacts to Github Artifact Store
       uses: actions/upload-artifact@v3
       with: 
