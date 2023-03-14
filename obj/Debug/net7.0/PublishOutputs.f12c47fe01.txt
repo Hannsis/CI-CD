@@ -1,0 +1,7 @@
+C:\Users\89hanmad\source\repos\CICDDEMO\CI-CD\bin\Debug\net7.0\publish\CI-CD.exe
+C:\Users\89hanmad\source\repos\CICDDEMO\CI-CD\bin\Debug\net7.0\publish\appsettings.Development.json
+C:\Users\89hanmad\source\repos\CICDDEMO\CI-CD\bin\Debug\net7.0\publish\appsettings.json
+C:\Users\89hanmad\source\repos\CICDDEMO\CI-CD\bin\Debug\net7.0\publish\CI-CD.dll
+C:\Users\89hanmad\source\repos\CICDDEMO\CI-CD\bin\Debug\net7.0\publish\CI-CD.deps.json
+C:\Users\89hanmad\source\repos\CICDDEMO\CI-CD\bin\Debug\net7.0\publish\CI-CD.runtimeconfig.json
+C:\Users\89hanmad\source\repos\CICDDEMO\CI-CD\bin\Debug\net7.0\publish\CI-CD.pdb
