@@ -22,5 +22,5 @@ jobs:
     -name: Update artifacts to Github Artifact Store
       uses: actions/upload-artifact@v3
       with: 
-      name: my-artifacts
-      path: ${{env.DOTNET_ROOT}}/publish
+       name: my-artifacts
+       path: ${{env.DOTNET_ROOT}}/publish
