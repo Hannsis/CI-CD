@@ -18655,6 +18655,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\89hanmad\\source\\repos\\CICDDEMO\\CI-CD\\Pages\\EvilPlan.cshtml",
+      "TargetPath": "Pages\\EvilPlan.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\89hanmad\\source\\repos\\CICDDEMO\\CI-CD\\Pages\\Index.cshtml",
       "TargetPath": "Pages\\Index.cshtml",
       "FileKind": "mvc"
